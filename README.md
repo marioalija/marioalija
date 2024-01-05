@@ -34,5 +34,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=marioalija&show_icons=true&count_private=true&hide_border=true)https://github-readme-stats.vercel.app/api?username=marioalija&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 
-<br/>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+
