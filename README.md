@@ -1,4 +1,8 @@
 ### Hi there 👋
+🚀 Aspiring Software Engineer | Passionate About Coding | Current Student at Actualize Coding School
+
+A hard worker, team player, and dedicated problem solver, I'm on a journey to transition into software engineering. With a foundation in customer service, restaurant management, and logistics, I bring a unique blend of skills to the world of coding. Currently leading the front-of-house team at Shallots Bistro, I excel in preparing the restaurant for daily business operations. In my previous role at a logistics company, I orchestrated daily operations and facilitated communication between brokers, drivers, and dispatchers.
+Currently honing my coding skills at Actualize Coding School, I am excited to apply the diverse skills I've cultivated throughout my career to this new path. I look forward to what the future holds and am eager to contribute my unique perspective to the tech industry.
 
 <!--
 **marioalija/marioalija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
